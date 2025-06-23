@@ -4,11 +4,11 @@
 ### Intern: Savanth G  
 **B.Tech CSE (AIML)**  
 Presidency University, Bengaluru  
-📅 Internship Period: May–June 2025  
+Internship Period: 9 June 2025 - 9 july 2025 
 
 ---
 
-## 📌 Overview
+## Overview
 
 This repository contains the completed **Task 1 and Task 2** of the **Machine Learning Internship** offered by **Cognifyz Technologies**. These tasks focus on **restaurant rating prediction** and a **content-based restaurant recommendation system**, combining data preprocessing, machine learning models, and user-centric design.
 
@@ -62,10 +62,10 @@ This repository contains the completed **Task 1 and Task 2** of the **Machine Le
 ##  File Structure
 
 ML-PROJECTS/
-Task1_Rating_Prediction.ipynb
-Task2_Recommendation_System.ipynb
-Dataset.csv
-README.md
+├──Task1_Rating_Prediction.ipynb
+├──Task2_Recommendation_System.ipynb
+├──Dataset.csv
+└── README.md
 
 ## Contact
 
