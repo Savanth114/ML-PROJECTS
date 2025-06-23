@@ -62,10 +62,10 @@ This repository contains the completed **Task 1 and Task 2** of the **Machine Le
 ##  File Structure
 
 ML-PROJECTS/
-├──Task1_Rating_Prediction.ipynb
-├──Task2_Recommendation_System.ipynb
-├──Dataset.csv
-└── README.md
+-Task1_Rating_Prediction.ipynb
+-Task2_Recommendation_System.ipynb
+- Dataset.csv
+- README.md
 
 ## Contact
 
