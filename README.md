@@ -10,8 +10,7 @@ Internship Period: 9 June 2025 - 9 july 2025
 
 ## Overview
 
-This repository contains the completed **Task 1 and Task 2** of the **Machine Learning Internship** offered by **Cognifyz Technologies**. These tasks focus on **restaurant rating prediction** and a **content-based restaurant recommendation system**, combining data preprocessing, machine learning models, and user-centric design.
-
+This repository contains the completed Task 1, Task 2, and Task 3 of the Machine Learning Internship offered by Cognifyz Technologies. These tasks involve building intelligent ML systems for restaurant data: including rating prediction, recommendation engine, and cuisine classification. Each task demonstrates hands-on use of data preprocessing, machine learning models, and performance evaluation.
 ---
 
 ##  Task Summary
@@ -50,6 +49,22 @@ This repository contains the completed **Task 1 and Task 2** of the **Machine Le
 
 ---
 
+### Task 3: Cuisine Classification
+- **Objective**: Classify restaurants into **cuisine categories** using supervised classification algorithms.
+-**Steps Covered**:
+  - Data preprocessing: handling missing values & encoding categorical variables
+  - Train-test split
+  - Model training with:
+    - `RandomForestRegressor`
+    - `LinearRegression`
+-**Evaluation using**:
+  - Accuracy
+  - Precision
+  - Recall
+  - Addressed class imbalance and analyzed model performance across cuisine categories
+
+---
+
 ##  Tools & Libraries Used
 
 - Python, pandas, numpy  
@@ -64,6 +79,7 @@ This repository contains the completed **Task 1 and Task 2** of the **Machine Le
 ML-PROJECTS/
 - Task1_Rating_Prediction.ipynb
 - Task2_Recommendation_System.ipynb
+- Task3_Cuisine_Classification.ipynb
 - Dataset.csv
 - README.md
 
