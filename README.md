@@ -50,8 +50,9 @@ This repository contains the completed Task 1, Task 2, and Task 3 of the Machine
 ---
 
 ### Task 3: Cuisine Classification
+
 - **Objective**: Classify restaurants into **cuisine categories** using supervised classification algorithms.
--**Steps Covered**:
+- **Steps Covered**:
   - Data preprocessing: handling missing values & encoding categorical variables
   - Train-test split
   - Model training with:
