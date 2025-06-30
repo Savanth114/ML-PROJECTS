@@ -57,7 +57,7 @@ This repository contains the completed Task 1, Task 2, and Task 3 of the Machine
   - Model training with:
     - `RandomForestRegressor`
     - `LinearRegression`
--**Evaluation using**:
+- **Evaluation using**:
   - Accuracy
   - Precision
   - Recall
