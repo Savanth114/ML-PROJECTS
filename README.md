@@ -1,5 +1,5 @@
 # ML-PROJECTS
-# Cognifyz Machine Learning Internship – Task 1 & 2 Submission
+# Cognifyz Machine Learning Internship – Task 1 to 4 Submission
 
 ### Intern: Savanth G  
 **B.Tech CSE (AIML)**  
@@ -10,7 +10,7 @@ Internship Period: 9 June 2025 - 9 july 2025
 
 ## Overview
 
-This repository contains the completed Task 1, Task 2, and Task 3 of the Machine Learning Internship offered by Cognifyz Technologies. These tasks involve building intelligent ML systems for restaurant data: including rating prediction, recommendation engine, and cuisine classification. Each task demonstrates hands-on use of data preprocessing, machine learning models, and performance evaluation.
+This repository contains the completed Task 1, Task 2, Task 3, and Task 4 of the Machine Learning Internship offered by Cognifyz Technologies. These tasks involve building intelligent ML systems for restaurant data: including rating prediction, recommendation engines, cuisine classification, and sentiment analysis. Each task demonstrates hands-on use of data preprocessing, machine learning models, NLP, and performance evaluation.
 ---
 
 ##  Task Summary
@@ -66,10 +66,28 @@ This repository contains the completed Task 1, Task 2, and Task 3 of the Machine
 
 ---
 
+### Task 4: Sentiment Analysis on Restaurant Reviews
+
+- **Objective**: Analyze the sentiment (positive/negative) of customer reviews using Natural Language Processing (NLP).
+- **Steps Covered**:
+  - Text cleaning: punctuation removal, stopword removal, lowercase conversion
+  - Tokenization and lemmatization
+  - Feature extraction using TfidfVectorizer
+  - Model training with:
+    - `LogisticRegression`
+    - `MultinomialNB`
+- **Evaluation using**:
+  - Accuracy
+  - Confusion Matrix
+  - Classification Report
+- **Output**: Classifies reviews as Positive or Negative. Includes sentiment prediction for both batch data and custom inputs.
+
+---
+
 ##  Tools & Libraries Used
 
 - Python, pandas, numpy  
-- scikit-learn  
+- scikit-learn, NLTK/spaCy
 - TfidfVectorizer, LabelEncoder  
 - Google Colab
 
@@ -81,6 +99,7 @@ ML-PROJECTS/
 - Task1_Rating_Prediction.ipynb
 - Task2_Recommendation_System.ipynb
 - Task3_Cuisine_Classification.ipynb
+- Task4_Sentiment_Analysis.ipynb
 - Dataset.csv
 - README.md
 
