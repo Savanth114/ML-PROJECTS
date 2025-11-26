@@ -1,5 +1,5 @@
 # ML-PROJECTS
-# Cognifyz Machine Learning Internship – Task 1 to 4 Submission
+# Machine Learning Internship – Task 1 to 4 Submission
 
 ### Intern: Savanth G  
 **B.Tech CSE (AIML)**  
@@ -10,7 +10,7 @@ Internship Period: 9 June 2025 - 9 july 2025
 
 ## Overview
 
-This repository contains the completed Task 1, Task 2, Task 3, and Task 4 of the Machine Learning Internship offered by Cognifyz Technologies. These tasks involve building intelligent ML systems for restaurant data: including rating prediction, recommendation engines, cuisine classification, and sentiment analysis. Each task demonstrates hands-on use of data preprocessing, machine learning models, NLP, and performance evaluation.
+This repository contains the completed Task 1, Task 2, Task 3, and Task 4 of the Machine Learning Internship. These tasks involve building intelligent ML systems for restaurant data: including rating prediction, recommendation engines, cuisine classification, and sentiment analysis. Each task demonstrates hands-on use of data preprocessing, machine learning models, NLP, and performance evaluation.
 ---
 
 ##  Task Summary
