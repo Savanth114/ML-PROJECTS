@@ -90,6 +90,7 @@ This repository contains the completed Task 1, Task 2, Task 3, and Task 4 of the
 - scikit-learn, NLTK/spaCy
 - TfidfVectorizer, LabelEncoder  
 - Google Colab
+- ML Algorithms
 
 ---
 
